@@ -20,8 +20,7 @@
 ### STALKER ARENA:
 
 - Heavy, dark, oppressive atmosphere
- (the atmos we had going on the earlier versions was actually better from recollection
- ^Was without fog)
+ (the atmos we had going on without fog was actually better from recollection).
 
 ##### Stalker Sex Dungeon:
 	- 25% chance to spawn grafitti on the cell at the very end of each intersection. (Abandoned Idea)
