@@ -19,8 +19,8 @@
 
 ### STALKER ARENA:
 
-Heavy, dark, oppressive atmosphere
-(the atmos we had going on without fog was actually better from recollection).
+	Heavy, dark, oppressive atmosphere
+	(the atmos we had going on without fog was actually better from recollection).
 
 ##### Stalker Sex Dungeon:
 	- 25% chance to spawn grafitti on the cell at the very end of each intersection. (Abandoned Idea)
@@ -35,12 +35,11 @@ Heavy, dark, oppressive atmosphere
 Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
 		      extension room -> Hazard Room -> offices/Air Duct 2 -> Tilted room -> End.
 
-##### Design:
+##### General Design:
 	- Top level = https://i.imgur.com/yKUe5lB.jpg
 	- Lower flooded level = https://i.imgur.com/uQSQ8tf.jpg
-
-brighter lighting, experimental dust/halo mesh spanning almost entire level.
-Locker room at start with all weapons from previous level. 1-way small drop into **main level:**
+	- Brighter lighting, experimental dust/halo mesh spanning almost entire level.
+	- Locker room at start with weapons + armour. 1-way small drop into **main area**
 	- Regular wave level with some parkour. (holes in floor/broken catwalks)
 	- Top level has regular early wave spawns.
 	- Lower level = knee-high murky water + FULL of crawlers.
@@ -96,7 +95,7 @@ Locker room at start with all weapons from previous level. 1-way small drop into
 
 ##### Design:
 	- https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
-	- Checkpoint -> lower turbine -> Traverse wall -> upper turbine.
+	- Progression = Checkpoint -> Lower Turbine -> Traverse Wall -> Upper Turbine.
 	- Turbine room BSP = 1200 height, 4000 width, 800 breadth (Add more breadth).
 
 ##### Lower Turbine:
@@ -130,7 +129,7 @@ Locker room at start with all weapons from previous level. 1-way small drop into
 	- Plenty husks, sirens, fp, scrakes, bloats to knock off into the abyss.
 	- Burning city skyline art in background, or whirling blizzard.
 
-Found equipment: Dwarfs Axe, ZED Blower, Seeker Six.
+	Found equipment: Dwarfs Axe, ZED Blower, Seeker Six.
 
 TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
 
