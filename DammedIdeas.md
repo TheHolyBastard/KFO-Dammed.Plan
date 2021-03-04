@@ -1,16 +1,16 @@
 ### EXTERIOR:
-##### Design:
+##### *Design*:
 	- Dominating Dam wall/scenery like this. https://i.imgur.com/sl0C3KC.jpeg
 	- Work on terrain/decorations around helicopter.
 	- Design it like an Obstacle Course.
 
-##### Bridge Reference Images:
+##### *Bridge Reference Images*:
 	1. https://steamcommunity.com/sharedfiles/filedetails/?id=2110820127
 	2. https://steamcommunity.com/sharedfiles/filedetails/?id=2110819856
 	3. https://steamcommunity.com/sharedfiles/filedetails/?id=2110819575
 	4. https://steamcommunity.com/sharedfiles/filedetails/?id=2110820757
 
-##### Bridge Design: 
+##### *Bridge Design*: 
 	- Metal girder SM can be reskinned, scale it bigger, use as bridge beams.
 	- Design stone buttress/support things with bsp + texture.
 	- Possibly better skin.
@@ -22,7 +22,7 @@
 	Heavy, dark, oppressive atmosphere
 	(the atmos we had going on without fog was actually better from recollection).
 
-##### Stalker Sex Dungeon:
+##### *Stalker Sex Dungeon*:
 	- 25% chance to spawn grafitti on the cell at the very end of each intersection. (Abandoned Idea)
 	- 4-way cell cross.
 	- Other corridors could look like repurposed store rooms or caves (more cages?).
@@ -35,7 +35,7 @@
 	Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
 		      extension room -> Hazard Room -> offices/Air Duct 2 -> Tilted room -> End.
 
-##### General Design:
+##### *General Design*:
 	- Top level = https://i.imgur.com/yKUe5lB.jpg
 	- Lower flooded level = https://i.imgur.com/uQSQ8tf.jpg
 	- Brighter lighting, experimental dust/halo mesh spanning almost entire level.
@@ -46,22 +46,22 @@
 	- Katana on lower level.
 	- Elevator for lower->upper level access.
 
-##### Toilet corridor:
+##### *Toilet corridor*:
 	- Draft 2 = Thicker corridor, double doors at end, trap for noobs.
 	- ventilation shaft to the left (foreshadowing). 
 	- Repurpose fusebox decorations.
 
-##### Hazard Room:
+##### *Hazard Room*:
 	- Decorated with pipes and grating.
 	- Full of acid environmental damage (will change to electrical).
 	- Requires careful navigation or objective to deactivate.
 	- Wave of zeds.
 
-##### Tilted Room:
+##### *Tilted Room*:
 	- Water pump obj - you could put a floating obj marker when you get near it.
 	- Delete otherwise.	
 
-##### End: 
+##### *End*: 
 	- Broken stairwell, through locked door.
 	- Requires getting past a scrake and operating keypad.
 
@@ -73,19 +73,19 @@
 	- Add broom closet to FP level 1
 	- Extend roof at 3rd level end, railings + ladder + raised corridor for surprise Mario FP.
 
-##### Tight FP Stair transitions:
+##### *Tight FP Stair transitions*:
 	- https://i.imgur.com/coiUCTL.jpeg
 	- Each stairwell, 7 flights of steps.
 	- Each platform would have classic barricade/burning doorway for zed spawn.
 
-##### To do:
+##### *To do*:
 	- Central pillar on both stairs is just 1 bsp, So delete it.
 	- Replace pillar with metal grill/fence meshes that you can see through.
 	- Decorate with lots of vertical pipes surrounded by mesh.
 	- Water drops/rushing water sounds.
 	- Make all the spawn points in the stairs proximity-based? (fp stair waves retriggerable?)
 
-##### Inspiration:
+##### *Inspiration*:
 	- KFO-RE-Mansion FP Basement.
 	- The Long Dark - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823863
 			- https://steamcommunity.com/sharedfiles/filedetails/?id=2110823587
@@ -93,12 +93,12 @@
 
 ### TURBINE ROOM:
 
-##### Design:
+##### *Design*:
 	- https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
 	- Progression = Checkpoint -> Lower Turbine -> Traverse Wall -> Upper Turbine.
 	- Turbine room BSP = 1200 height, 4000 width, 800 breadth (Add more breadth).
 
-##### Lower Turbine:
+##### *Lower Turbine*:
 	- Loose combat wave (lower turbine). 
 	- zeds jump down from side entrances, mostly focused on opposite end.
 	- Upper Turbine area is restricted by some means (rubble?).
@@ -107,12 +107,12 @@
 	- Maybe part see-through turbines? -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822682
 					   -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822936
 
-##### Upper Turbine:
+##### *Upper Turbine*:
 	- Defined walkway.
 	- Spawns should hopefully get really intense so it needs to be wide.
 	- obj = "Turbine Start-up Procedure: Stage 1/3"
 
-##### Notes:
+##### *Notes*:
 	people get lost on foundry & kfo-west because it doesn't make sense at all.
 	Loud sound effects should clue you in at least. Sound design will be key.
 	Even with obvious HUD people will ignore it :c (official maps work 'coz voice-overs)
@@ -124,31 +124,31 @@
 
 ### DAM WALL:
 
-##### Design:
+##### *Design*:
 	- Spawns falling from top of wall, in front and behind.
 	- Plenty husks, sirens, fp, scrakes, bloats to knock off into the abyss.
 	- Burning city skyline art in background, or whirling blizzard.
 
 	Found equipment: Dwarfs Axe, ZED Blower, Seeker Six.
 
-TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
+	TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
 
 
 ### PATRIARCH:
 
-##### Design:
+##### *Design*:
 	- Helicopter on roof (via upper turbine -> dam wall access?) 
 	- It may get blown up. D'oh.
 	- Players escape via train cutscene KFO-Transit style.
 
-##### Train:
+##### *Train*:
 	- Accessed via one last elevator or something fancy. 
 	- Underground train station.
 	- Pre checkpoint and respawn before ofc.
 	- Train obj = power/fuel/weld
 	- Players have to work together and hold out.
 
-##### Boss:
+##### *Boss*:
 	- When acheived, they escape via train and cutscene. 
 	- Kevin reveals himself as a stowaway.
 	- Players teleported to checkpoint secretly mid-cutscene.
@@ -156,21 +156,21 @@ TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
 	- Players teleported to checkpoint secretly mid-cutscene.
 	- Jump air resistance can be represented by horizontal PhsyicsVolume gravity.
 
-##### Inspiration:
+##### *Inspiration*:
 	- Taken from KF-Train, but improved, without shitty scaling on meshes and other visual bugs!
 
-##### Sidenote: 
+##### *Sidenote*: 
 	Myrmuz did once suggest blowing up the Dam on the escape cutscene Half Life style.
         rip budget, wait a minute, what budget? When do I get paid?
 
 
 ### GENERAL IDEAS:
 
-##### Waterworks:
+##### *Waterworks*:
 	- Helicopter crash has big horizontal smoke emitter.
 	- various windows in the interior have a bright light with a similar smoke emitter.
 	- Colour the smoke whitish? (frosty air)
-##### WestLondon:
+##### *WestLondon*:
 	- swirl emitters in the air.
 
 
