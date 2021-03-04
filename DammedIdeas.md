@@ -10,7 +10,7 @@
 	3. https://steamcommunity.com/sharedfiles/filedetails/?id=2110819575
 	4. https://steamcommunity.com/sharedfiles/filedetails/?id=2110820757
 
-##### Bridge Plan: 
+##### Bridge Design: 
 	- Metal girder SM can be reskinned, scale it bigger, use as bridge beams.
 	- Design stone buttress/support things with bsp + texture.
 	- Possibly better skin.
@@ -19,8 +19,8 @@
 
 ### STALKER ARENA:
 
-- Heavy, dark, oppressive atmosphere
- (the atmos we had going on without fog was actually better from recollection).
+Heavy, dark, oppressive atmosphere
+(the atmos we had going on without fog was actually better from recollection).
 
 ##### Stalker Sex Dungeon:
 	- 25% chance to spawn grafitti on the cell at the very end of each intersection. (Abandoned Idea)
@@ -35,12 +35,12 @@
 Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
 		      extension room -> Hazard Room -> offices/Air Duct 2 -> Tilted room -> End.
 
-##### Plan:
-- Top level = https://i.imgur.com/yKUe5lB.jpg
-- Lower flooded level = https://i.imgur.com/uQSQ8tf.jpg
+##### Design:
+	- Top level = https://i.imgur.com/yKUe5lB.jpg
+	- Lower flooded level = https://i.imgur.com/uQSQ8tf.jpg
 
 brighter lighting, experimental dust/halo mesh spanning almost entire level.
-Locker room at start with all weapons from previous level. 1-way small drop into main level:
+Locker room at start with all weapons from previous level. 1-way small drop into **main level:**
 	- Regular wave level with some parkour. (holes in floor/broken catwalks)
 	- Top level has regular early wave spawns.
 	- Lower level = knee-high murky water + FULL of crawlers.
@@ -80,41 +80,40 @@ Locker room at start with all weapons from previous level. 1-way small drop into
 	- Each platform would have classic barricade/burning doorway for zed spawn.
 
 ##### To do:
-Central pillar on both stairs is just 1 bsp, So delete it.
-Replace with metal grill/fence meshes that you can see through.
-Assuming we put decorations there and everything...
-	- maybe lots of vertical pipes surrounded by mesh.
+	- Central pillar on both stairs is just 1 bsp, So delete it.
+	- Replace pillar with metal grill/fence meshes that you can see through.
+	- Decorate with lots of vertical pipes surrounded by mesh.
 	- Water drops/rushing water sounds.
 	- Make all the spawn points in the stairs proximity-based? (fp stair waves retriggerable?)
 
 ##### Inspiration:
-- KFO-RE-Mansion FP Basement.
-- The Long Dark - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823863
-			    - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823587
+	- KFO-RE-Mansion FP Basement.
+	- The Long Dark - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823863
+			- https://steamcommunity.com/sharedfiles/filedetails/?id=2110823587
 	
 
 ### TURBINE ROOM:
 
-##### Plan:
-- https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
-- Checkpoint -> lower turbine -> Traverse wall -> upper turbine.
+##### Design:
+	- https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
+	- Checkpoint -> lower turbine -> Traverse wall -> upper turbine.
 
 Current Turbine Room Dimensions:
 	- bsp = 1200 height, 4000 width, 800 breadth (Add more breadth).
 
 ##### Lower Turbine:
-- Loose combat wave (lower turbine). 
-- zeds jump down from side entrances, mostly focused on opposite end.
-- Upper Turbine area is restricted by some means (rubble?).
-- Timed (FP) Door bursts open to wall so lower turbine is hold or die.
-- Few obstacles, but lotsa pipes and wiring for the turbines.
-- Maybe part see-through turbines? -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822682
-								   -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822936
+	- Loose combat wave (lower turbine). 
+	- zeds jump down from side entrances, mostly focused on opposite end.
+	- Upper Turbine area is restricted by some means (rubble?).
+	- Timed (FP) Door bursts open to wall so lower turbine is hold or die.
+	- Few obstacles, but lotsa pipes and wiring for the turbines.
+	- Maybe part see-through turbines? -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822682
+					   -> https://steamcommunity.com/sharedfiles/filedetails/?id=2110822936
 
 ##### Upper Turbine:
-- Defined walkway.
-- Spawns should hopefully get really intense so it needs to be wide.
-- obj = "Turbine Start-up Procedure: Stage 1/3"
+	- Defined walkway.
+	- Spawns should hopefully get really intense so it needs to be wide.
+	- obj = "Turbine Start-up Procedure: Stage 1/3"
 
 ##### Notes:
 	people get lost on foundry & kfo-west because it doesn't make sense at all.
@@ -128,22 +127,22 @@ Current Turbine Room Dimensions:
 
 ### DAM WALL:
 
-##### Plan:
-- Spawns falling from top of wall, in front and behind.
-- Plenty husks, sirens, fp, scrakes, bloats to knock off into the abyss.
-- Burning city skyline art in background, or whirling blizzard.
+##### Design:
+	- Spawns falling from top of wall, in front and behind.
+	- Plenty husks, sirens, fp, scrakes, bloats to knock off into the abyss.
+	- Burning city skyline art in background, or whirling blizzard.
 
 Found equipment: Dwarfs Axe, ZED Blower, Seeker Six.
 
-TLD Dam wall Preview - https://youtu.be/eRCB_8Cf0aQ?t=170
+TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
 
 
 ### PATRIARCH:
 
-##### Plan:
-- Helicopter on roof (via upper turbine -> dam wall access?) 
-- It may get blown up. D'oh.
-- Players escape via train cutscene KFO-Transit style.
+##### Design:
+	- Helicopter on roof (via upper turbine -> dam wall access?) 
+	- It may get blown up. D'oh.
+	- Players escape via train cutscene KFO-Transit style.
 
 ##### Train:
 	- Accessed via one last elevator or something fancy. 
@@ -179,15 +178,15 @@ TLD Dam wall Preview - https://youtu.be/eRCB_8Cf0aQ?t=170
 
 ### TO DO:
 
-- reviewing installed lighting.
-- extensions + decorations for vent shafts.
-- Tight FP stairs spawns.
-- Tight FP 3, Mario corridor.
-- Tight FP 1, Broom Closet.
-- Check all zone portals.
-- Hazard room needs reviewing, electrical and such.
-- Dumb lever obj for the pump (HUD icon or delete)
-- Review puter room/call elevator objective too.
+	- reviewing installed lighting.
+	- extensions + decorations for vent shafts.
+	- Tight FP stairs spawns.
+	- Tight FP 3, Mario corridor.
+	- Tight FP 1, Broom Closet.
+	- Check all zone portals.
+	- Hazard room needs reviewing, electrical and such.
+	- Dumb lever obj for the pump (HUD icon or delete)
+	- Review puter room/call elevator objective too.
 
 
 ### GARBAGE/DESCRIPTION TEMPLATE:
