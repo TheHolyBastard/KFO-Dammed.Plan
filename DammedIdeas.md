@@ -32,7 +32,7 @@
 
 ### CRAWLER PIT:
 
-Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
+	Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
 		      extension room -> Hazard Room -> offices/Air Duct 2 -> Tilted room -> End.
 
 ##### General Design:
