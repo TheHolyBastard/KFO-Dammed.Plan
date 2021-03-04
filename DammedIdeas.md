@@ -1,6 +1,5 @@
-==========================================================================================================
-EXTERIOR:
-==========================================================================================================
+// EXTERIOR:
+
 • Dominating Dam wall/scenery like this - https://i.imgur.com/sl0C3KC.jpeg
 • Work on terrain/decorations around helicopter.
 • Design it like an Obstacle Course.
@@ -17,23 +16,23 @@ Bridge Plan:
 	• Possibly better skin.
 	• top level of the bridge with bsp too.
 
-==========================================================================================================
-STALKER ARENA:
-==========================================================================================================
+
+// STALKER ARENA:
+
 • Heavy, dark, oppressive atmosphere
  (the atmos we had going on the earlier versions was actually better from recollection
  ^Was without fog)
 
 Stalker Sex Dungeon:
 	• 25% chance to spawn grafitti on the cell at the very end of each intersection. (Abandoned Idea)
-    • 4-way cell cross.
+	• 4-way cell cross.
 	• Other corridors could look like repurposed store rooms or caves (more cages?).
 	• Put stalker spawns in the roofs of all the cells? (vent/hole)	
 	• Porn shoot room might want a filming equipment storage room or closet.
 
-==========================================================================================================
-CRAWLER PIT:
-==========================================================================================================
+
+// CRAWLER PIT:
+
 Progression = Hive style industrial walkways -> foreman office -> toilets -> Air Ducts -> canteen ->
 		      extension room -> Hazard Room -> offices/Air Duct 2 -> Tilted room -> End.
 
@@ -64,13 +63,12 @@ Tilted Room:
 	• Water pump obj - you could put a floating obj marker when you get near it.
 	• Delete otherwise.	
 
-END: 
+End: 
 	• Broken stairwell, through locked door.
 	• Requires getting past a scrake and operating keypad.
 
-==========================================================================================================
-TIGHT FP:
-==========================================================================================================
+
+// TIGHT FP:
 	• 3 levels worth that progressively get harder.
 	• Use the narrow pipes in floor to bump at crucial seconds. (2-3)
 	• Aim = Frustrate Sharpshooters
@@ -95,9 +93,9 @@ Inspiration:
 • The Long Dark - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823863
 			    - https://steamcommunity.com/sharedfiles/filedetails/?id=2110823587
 	
-==========================================================================================================
-TURBINE ROOM:
-==========================================================================================================
+
+// TURBINE ROOM:
+
 Plan:
 • https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
 • Checkpoint -> lower turbine -> Traverse wall -> upper turbine.
@@ -128,9 +126,9 @@ Notes:
 	Stack more as it powers up further
 	Maybe make some lights on it (dynamic lights).
 	
-==========================================================================================================
-DAM WALL:
-==========================================================================================================
+
+// DAM WALL:
+
 Plan:
 • Spawns falling from top of wall, in front and behind.
 • Plenty husks, sirens, fp, scrakes, bloats to knock off into the abyss.
@@ -140,9 +138,9 @@ Found equipment: Dwarfs Axe, ZED Blower, Seeker Six.
 
 TLD Dam wall Preview - https://youtu.be/eRCB_8Cf0aQ?t=170
 
-==========================================================================================================
-PATRIARCH:
-==========================================================================================================
+
+// PATRIARCH:
+
 Plan:
 • Helicopter on roof (via upper turbine -> dam wall access?) 
 • It may get blown up. D'oh.
@@ -169,9 +167,8 @@ Inspiration:
 Sidenote - Myrmuz did once suggest blowing up the Dam on the escape cutscene Half Life style.
            rip budget, wait a minute, what budget? When do I get paid?
 
-==========================================================================================================
-GENERAL IDEAS:
-==========================================================================================================
+
+// GENERAL IDEAS:
 
 Waterworks:
 	• Helicopter crash has big horizontal smoke emitter.
@@ -180,9 +177,9 @@ Waterworks:
 WestLondon:
 	• swirl emitters in the air.
 
-==========================================================================================================
-TO DO:
-==========================================================================================================
+
+// TO DO:
+
 • reviewing installed lighting.
 • extensions + decorations for vent shafts.
 • Tight FP stairs spawns.
@@ -193,9 +190,8 @@ TO DO:
 • Dumb lever obj for the pump (HUD icon or delete)
 • Review puter room/call elevator objective too.
 
-==========================================================================================================
-GARBAGE/DESCRIPTION TEMPLATE:
-==========================================================================================================
+
+// GARBAGE/DESCRIPTION TEMPLATE:
 
 Boss Arena:
  [h1][b]General Information[/b][/h1]
