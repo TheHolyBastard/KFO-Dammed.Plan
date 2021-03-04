@@ -1,8 +1,8 @@
 ### EXTERIOR:
-
-- Dominating Dam wall/scenery like this. https://i.imgur.com/sl0C3KC.jpeg
-- Work on terrain/decorations around helicopter.
-- Design it like an Obstacle Course.
+##### Design:
+	- Dominating Dam wall/scenery like this. https://i.imgur.com/sl0C3KC.jpeg
+	- Work on terrain/decorations around helicopter.
+	- Design it like an Obstacle Course.
 
 ##### Bridge Reference Images:
 	1. https://steamcommunity.com/sharedfiles/filedetails/?id=2110820127
@@ -97,9 +97,7 @@ Locker room at start with all weapons from previous level. 1-way small drop into
 ##### Design:
 	- https://c7.alamy.com/comp/E5BG8M/hoover-dam-turbine-room-E5BG8M.jpg
 	- Checkpoint -> lower turbine -> Traverse wall -> upper turbine.
-
-Current Turbine Room Dimensions:
-	- bsp = 1200 height, 4000 width, 800 breadth (Add more breadth).
+	- Turbine room BSP = 1200 height, 4000 width, 800 breadth (Add more breadth).
 
 ##### Lower Turbine:
 	- Loose combat wave (lower turbine). 
@@ -162,8 +160,9 @@ TLD Dam wall Preview = https://youtu.be/eRCB_8Cf0aQ?t=170
 ##### Inspiration:
 	- Taken from KF-Train, but improved, without shitty scaling on meshes and other visual bugs!
 
-##### Sidenote: Myrmuz did once suggest blowing up the Dam on the escape cutscene Half Life style.
-           rip budget, wait a minute, what budget? When do I get paid?
+##### Sidenote: 
+	Myrmuz did once suggest blowing up the Dam on the escape cutscene Half Life style.
+        rip budget, wait a minute, what budget? When do I get paid?
 
 
 ### GENERAL IDEAS:
